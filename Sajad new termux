@@ -4,3 +4,4 @@ apt install git -y
 apt install python
 apt install python2
 apt install python3
+pkg install tor
